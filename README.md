@@ -1,4 +1,4 @@
-# Hey there, I'm alphap365 👋
+# Hey there, I'm Arajit Paul 👋
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building open-source tools for **news discovery, information retrieval, and data extraction**. I love creating tools that make accessing and processing information easier and more efficient.
 
@@ -12,18 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building ope
 ![Stars](https://img.shields.io/github/stars/alphap365/open-news?style=flat)
 
 A comprehensive Python library for **live news discovery and extraction**. Fetches news via DuckDuckGo, searches Google News, discovers RSS feeds, crawls websites, and extracts article content with intelligent filtering and ranking.
-
-**Key Features:**
-- 📰 Live news fetching (DuckDuckGo, Google News)
-- 🔍 RSS feed discovery and parsing
-- 🕷️ Website crawling and content extraction
-- 🎯 Smart filtering and deduplication
-- 📊 Article ranking and relevance scoring
-- 🖥️ Python API, CLI, and Terminal UI (TUI)
-- 🔄 Optional JavaScript rendering support
-
-**Use Cases:** News aggregation, market intelligence, content research, automated monitoring
-
 ---
 
 ### **[open-feeds](https://github.com/alphap365/open-feeds)**
@@ -85,6 +73,6 @@ Most of my projects are released under the **MIT License** - feel free to use, m
 
 <div align="center">
 
-**Made with ❤️ by alphap365**
+**Made with ❤️ by Arajit Paul**
 
 </div>
