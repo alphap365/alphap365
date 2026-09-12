@@ -1,6 +1,6 @@
 # Hey there, I'm Arajit Paul 👋
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building open-source tools for **news discovery, information retrieval, and data extraction**. I love creating tools that make accessing and processing information easier and more efficient.
+Welcome to my GitHub profile! I'm a passionate developer focused on building open-source tools for **news discovery, web discovery, information retrieval, and data extraction**. I love creating tools that make accessing and processing information easier and more efficient.
 
 ---
 
@@ -43,12 +43,6 @@ Feel free to:
 - 🍴 Fork and contribute improvements
 - 💬 Open issues with feedback or feature requests
 - 📧 Reach out for collaboration opportunities
-
----
-
-## 📝 License
-
-Most of my projects are released under the **MIT License** - feel free to use, modify, and distribute!
 
 ---
 
