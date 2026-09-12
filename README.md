@@ -31,26 +31,6 @@ Companion repository maintaining RSS feed definitions that power the `open-news`
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![alphap365's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alphap365&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alphap365&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🔨 Enhancing `open-news` with advanced NLP features
-- 📚 Expanding RSS feed coverage in `open-feeds`
-- 🚀 Building scalable solutions for information retrieval
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in:
