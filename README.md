@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building ope
 ![Stars](https://img.shields.io/github/stars/alphap365/open-news?style=flat)
 
 A comprehensive Python library for **live news discovery and extraction**. Fetches news via DuckDuckGo, searches Google News, discovers RSS feeds, crawls websites, and extracts article content with intelligent filtering and ranking.
+
 ---
 
 ### **[open-feeds](https://github.com/alphap365/open-feeds)**
