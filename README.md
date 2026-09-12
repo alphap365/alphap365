@@ -1,22 +1,19 @@
 # Hey there, I'm Arajit Paul 👋
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building open-source tools for **news discovery, web discovery, information retrieval, and data extraction**. I love creating tools that make accessing and processing information easier and more efficient.
+Welcome to my GitHub profile! I'm a passionate developer focused on building open-source tools for **news discovery, web discovery, information retrieval, and data extraction**. I love creating tools [...]
 
 ---
 
 ## 🚀 Featured Projects
 
-### **[open-news](https://github.com/alphap365/open-news)** 
-![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat&logo=python&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![Stars](https://img.shields.io/github/stars/alphap365/open-news?style=flat)
+<div style="overflow-x: auto; white-space: nowrap; padding: 10px 0;">
 
-A comprehensive Python library for **live news discovery and extraction**. Fetches news via DuckDuckGo, searches Google News, discovers RSS feeds, crawls websites, and extracts article content with intelligent filtering and ranking.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[open-news](https://github.com/alphap365/open-news)** | Comprehensive Python library for live news discovery and extraction. Fetches news via DuckDuckGo, searches Google News, discovers RSS feeds, crawls websites, and extracts article content. | ![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=flat&logo=python&logoColor=white) ![MIT](https://img.shields.io/badge/License-MIT-green.svg) |
+| **[open-feeds](https://github.com/alphap365/open-feeds)** | Companion repository maintaining RSS feed definitions that power the `open-news` library. Curated JSON-based feed configurations automatically fetched and cached by the package. | ![JSON](https://img.shields.io/badge/JSON-Feed-orange?style=flat) |
 
----
-
-### **[open-feeds](https://github.com/alphap365/open-feeds)**
-Companion repository maintaining RSS feed definitions that power the `open-news` library. Curated JSON-based feed configurations that are automatically fetched and cached by the package.
+</div>
 
 ---
 
